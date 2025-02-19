@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7cpxp593fr2copv7?svg=true)](https://ci.appveyor.com/project/Elena-Yakovleva/javapostmanecho)
+
 ### Задача №3: Postman Echo
 
 В этой задаче мы сэмулируем ситуацию, в которой SUT уже запущен, а мы из теста просто обращаемся к нему.
