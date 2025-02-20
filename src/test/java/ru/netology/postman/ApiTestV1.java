@@ -22,6 +22,6 @@ public class ApiTestV1 {
                 .statusCode(200)
                 .contentType(ContentType.JSON)
                 .header("connection", "keep-alive")
-                .body("data", equalTo("Hello, World!!!"));
+                .body("data", equalTo("Hello, World"));
     }
 }
